@@ -1,0 +1,109 @@
+[
+  {
+    "id": "x5m8g1",
+    "category": "母親節專區",
+    "name": "精選綜合8吋+4片裝A組+4片裝C組(8吋1盒+4片2盒)",
+    "sku": "sku_559961",
+    "price": 2000,
+    "discount": 1490,
+    "image": "https://www.touched.com.tw/static/ecommerce/240/240602/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/_/a/_ac-1_1/www.touched.com.tw-122999045-20.jpg",
+    "currency": "NT",
+    "countInStock": 100 
+  },
+
+  {
+    "id": "x5m8g2",
+    "category": "母親節專區",
+    "name": "精選綜合8吋+4片裝A組+4片裝C組(8吋1盒+4片2盒)",
+    "sku": "sku_559961",
+    "price": 2000,
+    "discount": 1490,
+    "image": "https://www.touched.com.tw/static/ecommerce/240/240602/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/_/a/_ac-1_1/www.touched.com.tw-122999045-20.jpg",
+    "currency": "NT",
+    "countInStock": 100
+    },
+
+    {
+      "id": "x5m8g3",
+      "category": "母親節專區",
+      "name": "精選綜合8吋+4片裝A組+4片裝C組(8吋1盒+4片2盒)",
+      "sku": "sku_559961",
+      "price": 2000,
+      "discount": 1490,
+      "image": "https://www.touched.com.tw/static/ecommerce/240/240602/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/_/a/_ac-1_1/www.touched.com.tw-122999045-20.jpg",
+      "currency": "NT",
+      "countInStock": 100 
+    },
+
+    {
+      "id": "x5m8g4",
+      "category": "母親節專區",
+      "name": "精選綜合8吋+4片裝A組+4片裝C組(8吋1盒+4片2盒)",
+      "sku": "sku_559961",
+      "price": 2000,
+      "discount": 1490,
+      "image": "https://www.touched.com.tw/static/ecommerce/240/240602/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/_/a/_ac-1_1/www.touched.com.tw-122999045-20.jpg",
+      "currency": "NT",
+      "countInStock": 100 
+    },
+
+    {
+      "id": "x5m8g5",
+      "category": "母親節專區",
+      "name": "精選綜合8吋+4片裝A組+4片裝C組(8吋1盒+4片2盒)",
+      "sku": "sku_559961",
+      "price": 2000,
+      "discount": 1490,
+      "image": "https://www.touched.com.tw/static/ecommerce/240/240602/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/_/a/_ac-1_1/www.touched.com.tw-122999045-20.jpg",
+      "currency": "NT",
+      "countInStock": 100 
+    },
+
+    {
+      "id": "x5m8g6",
+      "category": "母親節專區",
+      "name": "精選綜合8吋+4片裝A組+4片裝C組(8吋1盒+4片2盒)",
+      "sku": "sku_559961",
+      "price": 2000,
+      "discount": 1490,
+      "image": "https://www.touched.com.tw/static/ecommerce/240/240602/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/_/a/_ac-1_1/www.touched.com.tw-122999045-20.jpg",
+      "currency": "NT",
+      "countInStock": 100 
+    },
+
+    {
+      "id": "x5m8g7",
+      "category": "母親節專區",
+      "name": "精選綜合8吋+4片裝A組+4片裝C組(8吋1盒+4片2盒)",
+      "sku": "sku_559961",
+      "price": 2000,
+      "discount": 1490,
+      "image": "https://www.touched.com.tw/static/ecommerce/240/240602/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/_/a/_ac-1_1/www.touched.com.tw-122999045-20.jpg",
+      "currency": "NT",
+      "countInStock": 100 
+    },
+
+    {
+      "id": "x5m8g8",
+      "category": "母親節專區",
+      "name": "精選綜合8吋+4片裝A組+4片裝C組(8吋1盒+4片2盒)",
+      "sku": "sku_559961",
+      "price": 2000,
+      "discount": 1490,
+      "image": "https://www.touched.com.tw/static/ecommerce/240/240602/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/_/a/_ac-1_1/www.touched.com.tw-122999045-20.jpg",
+      "currency": "NT",
+      "countInStock": 100 
+    },
+
+    {
+      "id": "x5m8g9",
+      "category": "母親節專區",
+      "name": "精選綜合8吋+4片裝A組+4片裝C組(8吋1盒+4片2盒)",
+      "sku": "sku_559961",
+      "price": 2000,
+      "discount": 1490,
+      "image": "https://www.touched.com.tw/static/ecommerce/240/240602/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/_/a/_ac-1_1/www.touched.com.tw-122999045-20.jpg",
+      "currency": "NT",
+      "countInStock": 100 
+    }
+]
