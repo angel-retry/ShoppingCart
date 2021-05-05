@@ -78,6 +78,10 @@ body {
 
 
 /* Header */
+.header{
+  display: flex;
+  justify-content:space-between;
+}
 
 /* Product NavBar */
 .product-nav-bar{
@@ -165,8 +169,13 @@ body {
   background-color: #A34B00;
 }
 /* Cart */
+.cart-modal-content{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
 .cart-summary-text {
-  color: white;
+  color: black;
   font-size: 0.8rem;
   opacity: 0.6;
   margin-top: -4px;
@@ -190,6 +199,11 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: #A34B00;
+}
+.cart-modal-btn:hover {
+  transform: scale(1.1);
+  background-color: #A34B00;
 }
 
 .cart-item {

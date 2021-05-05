@@ -14,6 +14,7 @@ export default function AddToCart() {
           onClick: () => {
             console.log('Notification Clicked!');
           },
+          placement: 'bottomRight'
         });
       };
 
