@@ -6,7 +6,7 @@ import {
     SET_NAVBAR_ACTIVEITEM,
     ADD_CART_ITEM,
     REMOVE_CART_ITEM,
-    SET_PRODUCT_DETAIL
+    SET_PRODUCT_DETAIL,
 } from "../utils/constants"
 
 export const StoreContext = createContext();
@@ -33,19 +33,16 @@ const initialState = {
     switch (action.type) {
        case SET_PAGE_CONTENT:
           return {
-             ...state,
-             page: {
-                ...state,
-                products: action.payload,
-             },
+            ...state,
+            page: action.payload,
           };
         case SET_NAVBAR_ACTIVEITEM:
             return {
                ...state,
                ProductNavBar: {
-                  activeItem: action.payload
-               }
-            }  
+                  activeItem: action.payload,
+               },
+            };
         case ADD_CART_ITEM:
             const item = action.payload;
             const product = state.cartItems.find((x) => x.id === item.id);
